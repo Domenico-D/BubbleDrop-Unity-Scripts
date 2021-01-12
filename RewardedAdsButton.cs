@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class RewardedAdsButton : MonoBehaviour, IUnityAdsListener
 {
 
-    private string gameId = "3741457";
+    private string gameId = "*****";
 
 
     Button myButton;
