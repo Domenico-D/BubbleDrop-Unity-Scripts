@@ -6,7 +6,7 @@ using UnityEngine.Advertisements;
 public class AdManager : MonoBehaviour
 {
 
-    string gameId = "3741457";
+    string gameId = "*******";
     string placementId = "banner";
     bool testMode = true;
 
